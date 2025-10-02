@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+*.user
+*.aps
+*.pdb
+*.userosscache
+*.sln.docstates
+*.db
+*.pyc
+__pycache__/
+*.suo
+*.cache
+*.orig
